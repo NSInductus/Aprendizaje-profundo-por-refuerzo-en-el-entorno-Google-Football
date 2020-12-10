@@ -28,7 +28,7 @@ Destacar que estos resultados están separados en: resultados de la experimentac
 
 ## Memoria del proyecto
 
-La memoria del proyecto está escrita utilizando LaTex, en ella se explica de forma detallada todo el desarrollo del proyecto, corresponde con [memoria.pdf]().
+La memoria del proyecto está escrita utilizando LaTex, en ella se explica de forma detallada todo el desarrollo del proyecto, corresponde con [memoria.pdf](https://github.com/NSInductus/Aprendizaje-profundo-por-refuerzo-en-el-entorno-Google-Football/blob/main/doc/memoria.pdf).
 
 Destacar que al final de la memoria existe un anexo de informática con la intención de que el lector pueda de una forma sencilla lanzar el entorno y también realizar algunas de las pruebas del proceso experimental si lo desea.
 
